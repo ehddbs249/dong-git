@@ -1,5 +1,5 @@
-제목 : 안녕 친구들!
+Title : Welcome everyone!  
 
-이 챕터는 소개 챕터이다. 주인공의 이름은 파코이다.
+This chapter is an introduction. The protagonist's name is Poco.
 
-행복하게살았답니다
+I lived happily.
